@@ -126,8 +126,9 @@ palindrome(121);
 Print the following triangle pattern:
 
 *
-
 **
+***
+****
 
 ---
 
@@ -155,7 +156,6 @@ function triangle(n) {
 }
 
 triangle(4);
-```
 
 ---
 
