@@ -159,7 +159,7 @@ triangle(4);
 
 ---
 
-## 5. Factorial
+5. Factorial
 
 ### Problem
 
